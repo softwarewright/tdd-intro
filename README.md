@@ -2,6 +2,7 @@
 
 ```
 git clone https://github.com/softwarewright/tdd-intro.git
+cd tdd-intro
 npm ci
 npm test
 ```
